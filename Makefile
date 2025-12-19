@@ -1,5 +1,5 @@
 bibtex_DIR=bibtex
-csljson_DIR=csljson
+csljson_DIR=public
 
 .PHONY: all summary csl
 all: summary
