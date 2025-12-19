@@ -1,0 +1,44 @@
+[
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      }
+    ],
+    "genre": "Master’s thesis",
+    "id": "miino2016master",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "publisher": "徳島大学",
+    "title": "強制周期外力の印加されたハイブリッドシステムの分岐解析",
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      }
+    ],
+    "genre": "PhD thesis",
+    "id": "miino2019doctor",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "publisher": "徳島大学",
+    "title": "Bifurcation analysis of forced hybrid dynamical systems",
+    "type": "thesis"
+  }
+]

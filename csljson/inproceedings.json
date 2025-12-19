@@ -1,0 +1,2680 @@
+[
+  {
+    "author": [
+      {
+        "family": "美井野優"
+      }
+    ],
+    "collection-number": "283",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "高知城博物館",
+    "id": "miino2025nlp12",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "page": "78-81",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高知県",
+    "title": "残差収束型 ODE による固定点探索の性能評価",
+    "type": "paper-conference",
+    "volume": "125"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanaka",
+        "given": "Yamato"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Extended abstract the 57th ISCIE international symposium on stochastic systems theory and its applications",
+    "event-place": "立命館大学茨城キャンパス",
+    "id": "tanaka2025sss",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "page": "1B2-5",
+    "publisher": "システム制御情報学会",
+    "publisher-place": "Osaka, Japan",
+    "title": "Derivation method for homoclinic points of fixed points in a switched dynamical system",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Fukui",
+        "given": "Yuto"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Matsushita",
+        "given": "Haruna"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Book of abstracts of the 18th chaotic modeling and simulation international conference",
+    "event-place": "ILISIA Hotel Athens",
+    "id": "fukui2025chaos",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "page": "37-38",
+    "publisher": "ISAST: International Society for the Advancement of Science and Technology",
+    "publisher-place": "Athens, Greece",
+    "title": "Homoclinic tangency derivation method in two-dimensional discrete systems",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "美井野優"
+      }
+    ],
+    "collection-number": "150",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "かでる27（札幌）",
+    "id": "miino2025nlp08",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "page": "20-24",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "北海道",
+    "title": "固定点のパラメタに関する常微分方程式の導出と検証",
+    "type": "paper-conference",
+    "volume": "125"
+  },
+  {
+    "author": [
+      {
+        "family": "高岡宏太朗"
+      },
+      {
+        "family": "麻原寛之"
+      },
+      {
+        "family": "美井野優"
+      },
+      {
+        "family": "高坂拓司"
+      }
+    ],
+    "collection-number": "150",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "かでる27（札幌）",
+    "id": "takaoka2025nlp08",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "page": "37-40",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "北海道",
+    "title": "熱電池を有する高昇圧比DC-DCコンバータの分岐点導出法",
+    "type": "paper-conference",
+    "volume": "125"
+  },
+  {
+    "author": [
+      {
+        "family": "田中大斗"
+      },
+      {
+        "family": "美井野優"
+      },
+      {
+        "family": "麻原寛之"
+      },
+      {
+        "family": "高坂拓司"
+      }
+    ],
+    "collection-number": "69",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "NPD貸会議室 岡山高島屋",
+    "id": "tanaka2025nlp06",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "page": "7-10",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "岡山",
+    "title": "断続動作特性を有する連続系の固定点に関するホモクリニック点導出法",
+    "type": "paper-conference",
+    "volume": "125"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "福井",
+        "family": "悠斗"
+      },
+      {
+        "dropping-particle": "麻原",
+        "family": "寛之"
+      },
+      {
+        "dropping-particle": "松下",
+        "family": "春奈"
+      },
+      {
+        "dropping-particle": "美井野",
+        "family": "優"
+      },
+      {
+        "dropping-particle": "高坂",
+        "family": "拓司"
+      }
+    ],
+    "collection-number": "432",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "宮古島市中央公民館",
+    "id": "fukui2025nlp03",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "page": "96-99",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "沖縄",
+    "title": "差分進化を用いた2次元離散系におけるHomoclinic tangency導出法",
+    "type": "paper-conference",
+    "volume": "124"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "高岡",
+        "family": "宏太朗"
+      },
+      {
+        "dropping-particle": "美井野",
+        "family": "優"
+      },
+      {
+        "dropping-particle": "麻原",
+        "family": "寛之"
+      },
+      {
+        "dropping-particle": "高坂",
+        "family": "拓司"
+      }
+    ],
+    "collection-number": "208",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "鳥取大学広報センター",
+    "id": "takaoka2024nlp10",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "page": "122-125",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "鳥取",
+    "title": "stick-slip振動を伴う系のgrazing分岐点導出法",
+    "type": "paper-conference",
+    "volume": "124"
+  },
+  {
+    "author": [
+      {
+        "family": "Komori",
+        "given": "Ryota"
+      },
+      {
+        "family": "Kato",
+        "given": "Kaito"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2024ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "page": "37-38",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Mathematical Analysis for Chaotic Attractor in an Interrupted System with TEM Characteristics",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Akiba",
+        "given": "Hiroki"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 international symposium on nonlinear theory and its applications",
+    "event-place": "Saigon-Halong Hotel",
+    "id": "akiba2024nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "page": "645",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Ha Long Bay, Vietnam",
+    "title": "Derivation Method of the Border-Collision Bifurcation Point Based on the Monodromy Matrix for Switched Dynamical Systems",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Takaoka",
+        "given": "Kotaro"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 international symposium on nonlinear theory and its applications",
+    "event-place": "Saigon-Halong Hotel",
+    "id": "takaoka2024nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "page": "646",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Ha Long Bay, Vietnam",
+    "title": "Grazing Bifurcation Point Derivation Method for Forced Self-Excited Systems with Dry Friction",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      },
+      {
+        "family": "Karube",
+        "given": "Shu"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 international symposium on nonlinear theory and its applications",
+    "event-place": "Saigon-Halong Hotel",
+    "id": "miino2024nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "page": "647-648",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Ha Long Bay, Vietnam",
+    "title": "Local Bifurcations of an Impacting Oscillator with Two Masses",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "嵩喜",
+        "given": "加藤"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "178",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "高山市図書館",
+    "id": "kato2024nlp09",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "page": "26-29",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "岐阜",
+    "title": "不可逆性を有する区分非線形な二次元写像におけるホモクリニック点導出法",
+    "type": "paper-conference",
+    "volume": "124"
+  },
+  {
+    "author": [
+      {
+        "family": "裕貴",
+        "given": "秋葉"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "寛之",
+        "given": "麻原"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "13",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "香川県社会福祉総合センター",
+    "id": "akiba2024nlp05",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "page": "15-18",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高松",
+    "title": "モノドロミ行列を用いた断続動作特性を有する系におけるborder-collision分岐点導出法",
+    "type": "paper-conference",
+    "volume": "124"
+  },
+  {
+    "DOI": "10.34385/proc.76.B4L-25",
+    "author": [
+      {
+        "family": "Kiyosu",
+        "given": "Keita"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Inaba",
+        "given": "Naohiko"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 international symposium on nonlinear theory and its applications",
+    "event-place": "University of Catania",
+    "id": "kiyosu2023nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "page": "361",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Catania, Italy",
+    "title": "Stability analysis of MMOs in a forced BVP oscillator with constraint",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.76.B4L-24",
+    "author": [
+      {
+        "family": "Kato",
+        "given": "Takaki"
+      },
+      {
+        "family": "Kiyosu",
+        "given": "Keita"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 international symposium on nonlinear theory and its applications",
+    "event-place": "University of Catania",
+    "id": "kato2023nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "page": "360",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Catania, Italy",
+    "title": "Stability analysis method of a PV-Fed boost converter",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.76.C3L-22",
+    "author": [
+      {
+        "family": "Makino",
+        "given": "Tatsumi"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Matsushita",
+        "given": "Haruna"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 international symposium on nonlinear theory and its applications",
+    "event-place": "University of Catania",
+    "id": "makino2023nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "page": "535",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Catania, Italy",
+    "title": "A calculation method of homoclinic points for periodic points with PSO",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.76.D1L-23",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      }
+    ],
+    "container-title": "Proceedings of the 2023 international symposium on nonlinear theory and its applications",
+    "event-place": "University of Catania",
+    "id": "miino2023nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9
+        ]
+      ]
+    },
+    "page": "667-670",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Catania, Italy",
+    "title": "Mode concept to construct a diffeomorphism representing a smooth/nonsmooth dynamical system",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "力也",
+        "given": "山口"
+      },
+      {
+        "family": "大輔",
+        "given": "伊藤"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "collection-number": "436",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "長崎大学",
+    "id": "yamaguchi2023nlp3",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "page": "37-42",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "長崎",
+    "title": "2リンクロボットにおける大域的分岐",
+    "type": "paper-conference",
+    "volume": "122"
+  },
+  {
+    "author": [
+      {
+        "family": "嵩喜",
+        "given": "加藤"
+      },
+      {
+        "family": "奎太",
+        "given": "清須"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "寛之",
+        "given": "麻原"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "436",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "長崎大学",
+    "id": "kato2023nlp3",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "page": "100-103",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "長崎",
+    "title": "陰関数を含む2次元合成力学系の安定性解析手法",
+    "type": "paper-conference",
+    "volume": "122"
+  },
+  {
+    "author": [
+      {
+        "family": "諒汰",
+        "given": "小森"
+      },
+      {
+        "family": "海渡",
+        "given": "加藤"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "寛之",
+        "given": "麻原"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "203",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "ワークプラザ岐阜",
+    "id": "komori2023nlp10",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10
+        ]
+      ]
+    },
+    "page": "5-8",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "岐阜",
+    "title": "熱電池特性を有する断続回路にみられるカオスアトラクタの分岐解析",
+    "type": "paper-conference",
+    "volume": "123"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      }
+    ],
+    "container-title": "Proceedings of the 2022 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2022ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "page": "16-19",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Considerations on the effect of absolute and relative tolerance in numerical bifurcation analysis",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "奎太",
+        "given": "清須"
+      },
+      {
+        "family": "寛之",
+        "given": "麻原"
+      },
+      {
+        "family": "直彦",
+        "given": "稲葉"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "143",
+    "container-title": "電子情報通信学会技術報告",
+    "id": "kiyosu2022nlp",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "page": "20-23",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "オンライン",
+    "title": "拘束を伴う強制BVP発振器における1周期解の分岐点導出法",
+    "type": "paper-conference",
+    "volume": "122"
+  },
+  {
+    "DOI": "10.1109/ISOCC56007.2022.10031372",
+    "author": [
+      {
+        "family": "Makino",
+        "given": "Tatsumi"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Matsushita",
+        "given": "Haruna"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Proceedings of the 19th international SoC design conference 2022",
+    "event-place": "Lakai Sandpine",
+    "id": "makino2022isocc",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "page": "267-268",
+    "publisher": "IEEE",
+    "publisher-place": "Gangwon-do, South Korea",
+    "title": "Computation of homoclinic points using particle swarm optimization in 2-dimensional discrete dynamical systems",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kiyosu",
+        "given": "Keita"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuk"
+      },
+      {
+        "family": "Inaba",
+        "given": "Naohiko"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Extended abstract the 54th ISCIE international symposium on stochastic systems theory and its applications",
+    "event-place": "奈良県コンベンションセンター",
+    "id": "kiyosu2022sss",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "page": "23-24",
+    "publisher": "システム制御情報学会",
+    "publisher-place": "Nara, Japan",
+    "title": "Derivation method of the bifurcation point for one-periodic solution in a forced BVP oscillator with constraint",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Komori",
+        "given": "Ryota"
+      },
+      {
+        "family": "Kaito",
+        "given": "Kato"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Asahara",
+        "given": "Hiroyuki"
+      },
+      {
+        "family": "Kousaka",
+        "given": "Takuji"
+      }
+    ],
+    "container-title": "Extended abstract the 55th ISCIE international symposium on stochastic systems theory and its applications",
+    "event-place": "東京電機大学",
+    "id": "komori2023sss",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11
+        ]
+      ]
+    },
+    "page": "41-42",
+    "publisher": "システム制御情報学会",
+    "publisher-place": "Tokyo, Japan",
+    "title": "Analysis of chaotic attractor in an interrupted circuit with TEM characteristics",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "達海",
+        "given": "牧野"
+      },
+      {
+        "family": "春奈",
+        "given": "松下"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "拓司",
+        "given": "高坂"
+      }
+    ],
+    "collection-number": "335",
+    "container-title": "電子情報通信学会技術報告",
+    "id": "makino2022nlp",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    },
+    "page": "9-12",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "オンライン",
+    "title": "粒子群最適化を用いた2次元離散力学系におけるHomoclinic点計算法",
+    "type": "paper-conference",
+    "volume": "121"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "One-page summary collection of the 2021 IEICE nonlinear science workshop",
+    "id": "miino2021nlsw2",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "page": "NLSW-16",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Online",
+    "title": "Calculation method for unstable periodic points in unimodal maps using symbolic dynamical system",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "One-page summary collection of the 2021 IEICE nonlinear science workshop",
+    "id": "miino2021nlsw1",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "page": "NLSW-15",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Online",
+    "title": "Homoclinic bifurcation analysis for logistic map",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ecce-asia49820.2021.9479071",
+    "ISBN": "9781728163444",
+    "author": [
+      {
+        "family": "Kawamura",
+        "given": "Suguru"
+      },
+      {
+        "family": "Wakasa",
+        "given": "Yuta"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Takagi",
+        "given": "Shigeyuki"
+      }
+    ],
+    "container-title": "Proceedings of the 2021 IEEE 12th energy conversion congress and exposition - asia",
+    "id": "kawamura2021ecce",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "page": "2095-2099",
+    "publisher": "IEEE",
+    "publisher-place": "Online",
+    "title": "Examination and evaluation of high-efficiency motor drive using motors for electric vehicle equipped with optimization algorithms",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/ecce-asia49820.2021.9479306",
+    "ISBN": "9781728163444",
+    "author": [
+      {
+        "family": "Takagi",
+        "given": "Shigeyuki"
+      },
+      {
+        "family": "Takahashi",
+        "given": "Soramichi"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      }
+    ],
+    "container-title": "Proceedings of the 2021 IEEE 12th energy conversion congress and exposition - asia",
+    "id": "takagi2021ecce",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "page": "1761-1764",
+    "publisher": "IEEE",
+    "publisher-place": "Online",
+    "title": "Traction control for electric vehicles starting on an uphill road by torque function control with bias torque",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "敦生",
+        "given": "牧"
+      },
+      {
+        "family": "Virgin",
+        "given": "Lawrence"
+      },
+      {
+        "family": "直哉",
+        "given": "梅田"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "政宏",
+        "given": "酒井"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "collection-number": "27",
+    "container-title": "日本船舶海洋工学会平成30年秋季講演会論文集",
+    "event-place": "柏の葉カンファレンスセンター",
+    "id": "maki2018jsnaoe",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "page": "237-245",
+    "publisher": "日本船舶海洋工学会",
+    "publisher-place": "千葉",
+    "title": "横揺れ運動に生じる対称性の破れと各種分岐現象に関する理論的研究",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "collection-number": "215",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "甲南大学",
+    "id": "miino2016nlp9",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "page": "31-36",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "神戸",
+    "title": "ヒステリシスを有する区分線形Duffing方程式にみられる非線形現象",
+    "type": "paper-conference",
+    "volume": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2020 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2020ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "page": "84-87",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "An RLC circuit with a switch giving rich nonlinear phenomena",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1109/IPEMC-ECCEAsia48364.2020.9368237",
+    "author": [
+      {
+        "family": "Takahashi",
+        "given": "Soramichi"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Takagi",
+        "given": "Shigeyuki"
+      }
+    ],
+    "container-title": "Proceedings of the 2020 IEEE 9th international power electronics and motion control conference",
+    "event-place": "International Youth Cultural Centre",
+    "id": "takahashi2020ipemc",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "page": "33-37",
+    "publisher": "IEEE",
+    "publisher-place": "Online",
+    "title": "Slip suppression control of electric vehicle using torque function with bias value for uphill road",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.74.D2L-C-3",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2020 international symposium on nonlinear theory and its applications",
+    "id": "miino2020nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "page": "501-504",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Online",
+    "title": "Devil’s staircase and multistability in a hybrid harmonic oscillator",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2020 the RISP international workshop on nonlinear circuits, communications and signal",
+    "event-place": "Hilton Waikiki Beach Hotel",
+    "id": "miino2020ncsp",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "page": "214-217",
+    "publisher": "The Research Institute of Signal Processing Japan (RISP)",
+    "publisher-place": "Honolulu, USA",
+    "title": "Synchronous firing in the 3-coupled Izhikevich neuron model",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "章平",
+        "given": "宮崎"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "collection-number": "174",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "香川大学",
+    "id": "miyazaki2018nlp",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "page": "91-96",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高松",
+    "title": "エノン写像における馬蹄形写像のホモクリニック点と不安定周期点との位置関係",
+    "type": "paper-conference",
+    "volume": "118"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "collection-number": "209",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "高知県立大学",
+    "id": "miino2019nlp9",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "page": "11-14",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高知",
+    "title": "記号力学系に基づいたLogistic Mapにおける不安定周期点の数値的導出法",
+    "type": "paper-conference",
+    "volume": "119"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      }
+    ],
+    "container-title": "Proceedings of the 2018 international symposium on nonlinear theory and its applications",
+    "event-place": "Palau de Congressos de Tarragona",
+    "id": "miino2018nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "page": "247-250",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Tarragona, Spain",
+    "title": "Bifurcations in a sinusoidally driven LCR circuit with a hysteresis",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      },
+      {
+        "family": "敦夫",
+        "given": "牧"
+      },
+      {
+        "family": "直哉",
+        "given": "梅田"
+      }
+    ],
+    "collection-number": "174",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "香川大学",
+    "id": "miino2018nlp8",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8
+        ]
+      ]
+    },
+    "page": "15-19",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高松",
+    "title": "船舶転覆問題にみられる分岐現象",
+    "type": "paper-conference",
+    "volume": "118"
+  },
+  {
+    "author": [
+      {
+        "family": "章平",
+        "given": "宮崎"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "collection-number": "209",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "高知県立大学",
+    "id": "miyazaki2019nlp9",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "page": "117-122",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高知",
+    "title": "馬蹄型写像の同定とカオス制御",
+    "type": "paper-conference",
+    "volume": "119"
+  },
+  {
+    "DOI": "10.5416/jipe.45.216",
+    "ISSN": "1348-8538",
+    "author": [
+      {
+        "family": "裕太",
+        "given": "若佐"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "茂行",
+        "given": "高木"
+      }
+    ],
+    "container-title": "パワーエレクトロニクス学会誌",
+    "event-place": "立命館大学",
+    "id": "wakasa2019control",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "page": "216-216",
+    "publisher": "パワーエレクトロニクス学会",
+    "publisher-place": "草津",
+    "title": "適正化手法を加えたモータの高効率制御",
+    "type": "paper-conference",
+    "volume": "45"
+  },
+  {
+    "author": [
+      {
+        "family": "裕太",
+        "given": "若佐"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "茂行",
+        "given": "高木"
+      }
+    ],
+    "container-title": "令和2年電気学会全国大会公演論文集",
+    "event-place": "東京電機大学",
+    "id": "wakasa2020ieej",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "page": "119",
+    "publisher": "電気学会",
+    "publisher-place": "東京",
+    "title": "永久磁石同期モータの定速度制御への最適化アルゴリズムの適用",
+    "type": "paper-conference",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "空路",
+        "given": "高橋"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "茂行",
+        "given": "高木"
+      }
+    ],
+    "container-title": "令和2年電気学会全国大会公演論文集",
+    "event-place": "東京電機大学",
+    "id": "takahashi2020slip",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    },
+    "page": "183",
+    "publisher": "電気学会",
+    "publisher-place": "東京",
+    "title": "電動カートにおける登坂での発進を考慮したスリップ抑制制御評価",
+    "type": "paper-conference",
+    "volume": "4"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2019 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2019ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "page": "23-25",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Unstable periodic points in the tent map based on symbolic dynamics",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "竣也",
+        "given": "泉"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "container-title": "2019年電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "アオーレ長岡",
+    "id": "izumi2019noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "page": "44",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "長岡",
+    "title": "カオスを用いた秘密分散法の研究",
+    "type": "paper-conference",
+    "volume": "NLS"
+  },
+  {
+    "author": [
+      {
+        "family": "晟矢",
+        "given": "天羽"
+      },
+      {
+        "family": "大輔",
+        "given": "伊藤"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "container-title": "2019年電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "アオーレ長岡",
+    "id": "amo2019noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "page": "31",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "長岡",
+    "title": "Isingマシンにおけるポンプレート分散調節による最適解探索",
+    "type": "paper-conference",
+    "volume": "NLS"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      },
+      {
+        "family": "Maki",
+        "given": "Atsuo"
+      },
+      {
+        "family": "Umeda",
+        "given": "Naoya"
+      }
+    ],
+    "container-title": "2018年電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "京都テルサ",
+    "id": "miino2018noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6
+        ]
+      ]
+    },
+    "page": "25",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "京都",
+    "title": "Local stability and bifurcation phenomena in the softening Duffing equation",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "空路",
+        "given": "高橋"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "茂行",
+        "given": "高木"
+      }
+    ],
+    "container-title": "2019年電気学会産業応用部門大会予稿集",
+    "event-place": "長崎大学",
+    "id": "takahashi2019ieej",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          8
+        ]
+      ]
+    },
+    "page": "121-122",
+    "publisher": "電気学会",
+    "publisher-place": "長崎",
+    "title": "登坂時における電動カートのスリップ抑制制御評価",
+    "type": "paper-conference",
+    "volume": "IV"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Maki",
+        "given": "Atsuo"
+      },
+      {
+        "family": "Umeda",
+        "given": "Naoya"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      }
+    ],
+    "container-title": "2019年電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "アオーレ長岡",
+    "id": "miino2019noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "page": "12",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "長岡",
+    "title": "A computation method to calculate the stable manifold of a ship dynamical system",
+    "type": "paper-conference",
+    "volume": "NLS"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      },
+      {
+        "family": "Maki",
+        "given": "Atsuo"
+      },
+      {
+        "family": "Umeda",
+        "given": "Naoya"
+      }
+    ],
+    "container-title": "Proceedings of the 13th international conference on the stability of ships and ocean vehicles",
+    "event-place": "神戸コンベンションセンター",
+    "id": "miino2018isso",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "page": "397-403",
+    "publisher": "大阪大学，大阪府立大学，国土交通省共同出版",
+    "publisher-place": "Kobe, Japan",
+    "title": "Local stability and bifurcation analysis of the softening Duffing equation by numerical computation",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maki",
+        "given": "Atsuo"
+      },
+      {
+        "family": "Maruyama",
+        "given": "Yuuki"
+      },
+      {
+        "family": "Umeda",
+        "given": "Naoya"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Katayama",
+        "given": "Toru"
+      },
+      {
+        "family": "Sakai",
+        "given": "Masahiro"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 17th international ship stability workshop",
+    "event-place": "HTC Helsinki",
+    "id": "maki2019issw",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "page": "39-46",
+    "publisher": "NAPA Ltd. and Aalto University",
+    "publisher-place": "Helsinki, Finland",
+    "title": "A perspective on theoretical estimation of stochastic nonlinear rolling",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2016 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2016ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "page": "71-72",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Synchronized bifurcation in the two-coupled Izhikevich neuron model",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.48.A4L-G-6",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2016 international symposium on nonlinear theory and its applications",
+    "event-place": "ニューウェルシティ湯河原",
+    "id": "miino2016nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11
+        ]
+      ]
+    },
+    "page": "354-357",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Yugawara, Japan",
+    "title": "Synchronized bifurcation in the two-coupled Izhikevich neuron model",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "container-title": "平成29年電気学会電子・情報・システム部門大会予稿集",
+    "event-place": "サンポートホール高松",
+    "id": "miino2017ieej",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "page": "1111-1114",
+    "publisher": "電気学会",
+    "publisher-place": "高松",
+    "title": "区分線形力学系を用いた非線形現象発生機序の検討",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2017 IEEE taiwan and japan conference on circuits and systems",
+    "event-place": "岡山コンベンションセンター",
+    "id": "miino2017tjcas",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "page": "49",
+    "publisher": "IEEE",
+    "publisher-place": "Okayama, Japan",
+    "title": "Five-segment PWL conductance in a Josephson junction",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      }
+    ],
+    "container-title": "2017年電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "中京大学",
+    "id": "miino2017noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "page": "18",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "名古屋",
+    "title": "Bifurcation phenomena and homoclinic states of a simple piecewise linear dynamical system",
+    "type": "paper-conference",
+    "volume": "NLS"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      },
+      {
+        "family": "博",
+        "given": "川上"
+      }
+    ],
+    "collection-number": "18",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "岡山理科大学",
+    "id": "miino2017nlp5",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "page": "73-76",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "岡山",
+    "title": "簡素な区分線形力学系に発現するホモクリニック点の分岐",
+    "type": "paper-conference",
+    "volume": "117"
+  },
+  {
+    "DOI": "10.34385/proc.29.C2L-A-3",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Kawakami",
+        "given": "Hiroshi"
+      }
+    ],
+    "container-title": "Proceedings of the 2017 international symposium on nonlinear theory and its applications",
+    "event-place": "Cancun International Convention Center",
+    "id": "miino2017nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "page": "629-632",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Cancun, Mexico",
+    "title": "Global bifurcation analysis in a simple piecewise linear non-autonomous dynamical system",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ito",
+        "given": "Daisuke"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2014 the RISP international workshop on nonlinear circuits, communications and signal",
+    "event-place": "Waikiki Beach Marriott Resort & Spa",
+    "id": "miino2014ncsp",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3
+        ]
+      ]
+    },
+    "page": "413-416",
+    "publisher": "The Research Institute of Signal Processing Japan (RISP)",
+    "publisher-place": "Honolulu, USA",
+    "title": "Bifurcation phenomena of forced Izhikevich neuron model",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ito",
+        "given": "Daisuke"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2015 the RISP international workshop on nonlinear circuits, communications and signal",
+    "event-place": "Malaysia-Japan International Institute of Technology",
+    "id": "miino2015ncsp",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2
+        ]
+      ]
+    },
+    "page": "158-161",
+    "publisher": "The Research Institute of Signal Processing Japan (RISP)",
+    "publisher-place": "Kuala Lumpur, Malaysia",
+    "title": "Bifurcation analysis for the forced Alpazur oscillator",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ito",
+        "given": "Daisuke"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2014 IEEE workshop on nonlinear circuit networks",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2014ncn",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "page": "1-4",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Bifurcation analysis of the forced Alpazur oscillator",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.34385/proc.46.D2L-E2",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ito",
+        "given": "Daisuke"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2014 international symposium on nonlinear theory and its applications",
+    "event-place": "KKL Luzern",
+    "id": "miino2014nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9
+        ]
+      ]
+    },
+    "page": "807-810",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Luzern, Switzerland",
+    "title": "Bifurcation analysis of coupled Izhikevich neuron model with an external periodic force",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "大輔",
+        "given": "伊藤"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "collection-number": "250",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "愛媛大学",
+    "id": "miino2014nlp10",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          10
+        ]
+      ]
+    },
+    "page": "119-123",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "松山",
+    "title": "外力を印加した結合ニューロンモデルの応答",
+    "type": "paper-conference",
+    "volume": "114"
+  },
+  {
+    "DOI": "10.34385/proc.47.A3L-D-2",
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2015 international symposium on nonlinear theory and its applications",
+    "event-place": "City University of Hong Kong",
+    "id": "miino2015nolta",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    },
+    "page": "169-172",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "Hong Kong, China",
+    "title": "Laboratory experiment for bifurcation phenomena of the forced Alpazur oscillator",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "大輔",
+        "given": "伊藤"
+      },
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "collection-number": "267",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "大阪電気通信大学",
+    "id": "ito2015nc",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "page": "59-62",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "大阪",
+    "title": "双極型ロジスティックカオスニューロンを用いたIsingネットワークの分岐",
+    "type": "paper-conference",
+    "volume": "115"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ito",
+        "given": "Daisuke"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2015 IEEE taiwan and japan conference on circuits and systems",
+    "event-place": "四国大学交流プラザ",
+    "id": "miino2015tjcas",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "page": "26",
+    "publisher": "IEEE",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Bifurcation analysis on nonlinear non-autonomous systems with discontinuity",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "Proceedings of the 2016 IEEE taiwan and japan conference on circuits and systems",
+    "event-place": "National Cheng Kung University",
+    "id": "miino2016tjcas",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7
+        ]
+      ]
+    },
+    "page": "1",
+    "publisher": "IEEE",
+    "publisher-place": "Tainan, Taiwan",
+    "title": "A difficulty from chattering in bifurcation analysis of the circuit with a Josephson junction including piecewise linear property",
+    "type": "paper-conference",
+    "volume": "S3A"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "2016年 電子情報通信学会 NOLTA ソサイエティ大会講演論文集",
+    "event-place": "東京理科大学",
+    "id": "miino2016noltasc",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "page": "13",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "東京",
+    "title": "Synchronization of firing in coupled Izhikevich neuron model",
+    "type": "paper-conference",
+    "volume": "NLS"
+  },
+  {
+    "author": [
+      {
+        "family": "優",
+        "given": "美井野"
+      },
+      {
+        "family": "哲史",
+        "given": "上田"
+      }
+    ],
+    "collection-number": "63",
+    "container-title": "電子情報通信学会技術報告",
+    "event-place": "高知大学",
+    "id": "miino2016nlp5",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5
+        ]
+      ]
+    },
+    "page": "51-56",
+    "publisher": "電子情報通信学会",
+    "publisher-place": "高知",
+    "title": "結合Izhikevichニューロンモデルにみられる同時発火現象と分岐",
+    "type": "paper-conference",
+    "volume": "116"
+  },
+  {
+    "author": [
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      },
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      }
+    ],
+    "container-title": "Proceedings of the 2016 the RISP international workshop on nonlinear circuits, communications and signal",
+    "event-place": "The Hilton Waikiki Beach Hotel",
+    "id": "ueta2016ncsp",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "page": "672-673",
+    "publisher": "The Research Institute of Signal Processing Japan (RISP)",
+    "publisher-place": "Honolulu, USA",
+    "title": "Automatic threshold adjustment for limit cycles holding a specified stability in hybrid systems",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 the RISP international workshop on nonlinear circuits, communications and signal",
+    "event-place": "Alamoana Hotel",
+    "id": "miino2024ncsp",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2
+        ]
+      ]
+    },
+    "page": "123-124",
+    "publisher": "The Research Institute of Signal Processing Japan (RISP)",
+    "publisher-place": "Honolulu, USA",
+    "title": "Algorithm to calculate the Jacobian matrix of Poincaré map for a gear transmission system",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "山口",
+        "family": "力也"
+      },
+      {
+        "dropping-particle": "美井野",
+        "family": "優"
+      },
+      {
+        "dropping-particle": "伊藤",
+        "family": "大輔"
+      },
+      {
+        "dropping-particle": "上田",
+        "family": "哲史"
+      }
+    ],
+    "container-title": "令和3年度電気・電子・情報関係学会四国支部連合大会講演論文集",
+    "id": "yamaguchi2021sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "page": "13",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "オンライン",
+    "title": "定トルクを加えた減衰単振り子の大域的分岐",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "野村",
+        "family": "悠祐"
+      },
+      {
+        "dropping-particle": "美井野",
+        "family": "優"
+      },
+      {
+        "dropping-particle": "上田",
+        "family": "哲史"
+      }
+    ],
+    "container-title": "平成30年度電気・電子・情報関係学会四国支部連合大会論文集",
+    "event-place": "愛媛大学",
+    "id": "nomura2018sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "page": "9",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "松山",
+    "title": "2次元自律系におけるリミットサイクルの一設計方法",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "平成29年度電気・電子・情報関係学会四国支部連合大会論文集",
+    "event-place": "愛媛大学",
+    "id": "miino2017sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "page": "24",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "Matsuyama, Japan",
+    "title": "Five-segment piecewise linearization for a conductance in a Josephson Junction",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "平成28年度電気・電子・情報関係学会四国支部連合大会論文集",
+    "event-place": "徳島大学",
+    "id": "miino2016sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "page": "354-357",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "Tokushima, Japan",
+    "title": "Synchronized bifurcation in a two-coupled Izhikevich neuron model with an external force",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "dropping-particle": "中桐",
+        "family": "健介"
+      },
+      {
+        "dropping-particle": "美井野",
+        "family": "優"
+      },
+      {
+        "dropping-particle": "上田",
+        "family": "哲史"
+      }
+    ],
+    "container-title": "平成28年度電気・電子・情報関係学会四国支部連合大会論文集",
+    "event-place": "徳島大学",
+    "id": "nakagiri2016sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "page": "3",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "徳島",
+    "title": "Newton法を用いたポアンカレ写像点の算出",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Miino",
+        "given": "Yuu"
+      },
+      {
+        "family": "Ueta",
+        "given": "Tetsushi"
+      }
+    ],
+    "container-title": "平成27年度電気・電子・情報関係学会四国支部連合大会論文集",
+    "event-place": "高知工科大学",
+    "id": "miino2015sjciee",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "page": "124",
+    "publisher": "電気・電子・情報関係学会四国支部連合",
+    "publisher-place": "Kochi, Japan",
+    "title": "Bifurcation analysis for Duffing equation with non-smooth hysteresis characteristics",
+    "type": "paper-conference"
+  }
+]
