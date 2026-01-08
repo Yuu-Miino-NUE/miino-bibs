@@ -9,8 +9,5 @@ summary: summary.py $(bibtex_DIR)/*.bib
 
 csl: $(bibtex_DIR)/*.bib
 	mkdir -p $(csljson_DIR)
-	$(MAKE) $(patsubst $(bibtex_DIR)/%.bib,$(csljson_DIR)/%.json,$(wildcard $(bibtex_DIR)/*.bib))
-
-$(csljson_DIR)/%.json: $(bibtex_DIR)/%.bib
-	pandoc --from=bibtex --to=csljson $< -o $@
-	echo "Converted: $< -> $@"
+	pandoc --from=bibtex --to=csljson $< -o $(csljson_DIR)/all.json
+	echo "Converted: $< -> $(csljson_DIR)/all.json"
