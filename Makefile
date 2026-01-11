@@ -13,5 +13,5 @@ csl: $(bibtex_DIR)/*.bib
 	echo "Converted: $^ -> $(csljson_DIR)/all.json"
 
 bib: csl
-	pandoc --from=csljson --to=bibtex $(csljson_DIR)/all.json -o $(bibtex_DIR)/all_converted.bib
+	pandoc --from=csljson --to=bibtex $(csljson_DIR)/all.json --wrap=none -o $(bibtex_DIR)/all_converted.bib
 	echo "Converted: $(csljson_DIR)/all.json -> $(bibtex_DIR)/all_converted.bib"
