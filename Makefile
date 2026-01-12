@@ -9,9 +9,9 @@ summary: summary.py $(bibtex_DIR)/*.bib
 
 csl: $(bibtex_DIR)/*.bib
 	mkdir -p $(public_DIR)
-	pandoc --from=bibtex --to=csljson $^ -o $(public_DIR)/all.json
+	pandoc --from=biblatex --to=csljson $^ -o $(public_DIR)/all.json
 	echo "Converted: $^ -> $(public_DIR)/all.json"
 
 bib: csl
-	pandoc --from=csljson --to=bibtex $(public_DIR)/all.json --wrap=none -o $(public_DIR)/all_converted.bib
+	pandoc --from=csljson --to=biblatex $(public_DIR)/all.json --wrap=none -o $(public_DIR)/all_converted.bib
 	echo "Converted: $(public_DIR)/all.json -> $(public_DIR)/all_converted.bib"
